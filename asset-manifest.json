@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/single-login-app-nodejs/static/js/main.ff43c812.chunk.js",
+    "main.js.map": "/single-login-app-nodejs/static/js/main.ff43c812.chunk.js.map",
+    "runtime-main.js": "/single-login-app-nodejs/static/js/runtime-main.632c3761.js",
+    "runtime-main.js.map": "/single-login-app-nodejs/static/js/runtime-main.632c3761.js.map",
+    "static/js/2.c599b4a7.chunk.js": "/single-login-app-nodejs/static/js/2.c599b4a7.chunk.js",
+    "static/js/2.c599b4a7.chunk.js.map": "/single-login-app-nodejs/static/js/2.c599b4a7.chunk.js.map",
+    "index.html": "/single-login-app-nodejs/index.html",
+    "static/js/2.c599b4a7.chunk.js.LICENSE.txt": "/single-login-app-nodejs/static/js/2.c599b4a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.632c3761.js",
+    "static/js/2.c599b4a7.chunk.js",
+    "static/js/main.ff43c812.chunk.js"
+  ]
+}
