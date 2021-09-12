@@ -1,7 +1,7 @@
 import axios from 'axios';
 
-const API = axios.create({ baseURL: 'http://localhost:5000' });
+const API = axios.create({ baseURL: 'https://single-login-app-nodejs.herokuapp.com/users' });
 
-export const signIn = (result) => API.post('/users/signin', result);
-export const logOut = (email) => API.post('/users/signout', email);
-export const logOutOthers = (result) => API.post('/users/signoutothers', result);
+export const signIn = (result) => API.post('/signin', result);
+export const logOut = (email) => API.post('/signout', email);
+export const logOutOthers = (result) => API.post('/signoutothers', result);
